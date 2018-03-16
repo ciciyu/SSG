@@ -1,0 +1,8 @@
+#”the day within a week” “the proportion of users post items in corresponding day”
+1	0.131270748
+2	0.144298639
+3	0.14932404
+4	0.147557431
+5	0.149659435
+6	0.147204095
+7	0.130685612

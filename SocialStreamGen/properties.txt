@@ -1,0 +1,7 @@
+startTime=1998-01-01 00:00:00
+endTime=2002-01-01 00:00:00
+userNum=100
+path=/Users/ycc/kuaipan/workspace/SocialStreamGen/
+windowSize=8301600
+dataType=email
+viewSize=year
