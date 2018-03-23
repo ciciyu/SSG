@@ -20,7 +20,7 @@ This can lead to the generation of a jar in the target folder the default one ca
 
 ## Parameters:
 
-*	parameterPath: the path of parameter file "properties.txt", which records a set of parameters.
+*	path: the path of parameter file "properties.txt", which records a set of parameters.
 *       port: The port number of the master.
 
 ## Parameters in "properties.txt":
